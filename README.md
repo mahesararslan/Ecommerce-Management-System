@@ -45,3 +45,5 @@ Additionally, the project includes a GUI for user sign-in.
 - **Product Management:** Admins can add, remove, or update product listings and manage stock levels.
 - **Order Management:** Admins can view a list of pending orders and process shipments.
 - **User Management:** Admins can view user details.
+
+I built this as a semester Project for my Object Oriented Programming class, turned out to be a great learning experience, diving into the core concepts and connecting them together.
